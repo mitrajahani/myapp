@@ -1,0 +1,27 @@
+.ArticleWrapper{
+   text-align: center;
+}
+.ArticleWrapper h1{
+   text-align: right;
+   margin-top: 50px;
+   margin-bottom: 10px;
+   font-size: 24px;
+}
+.ArticleWrapper img{
+    width: 50%;
+    margin-bottom: 10px;
+} 
+.ArticleWrapper p{
+    text-align: right;
+    color: #777;
+}
+.ArticleInfo{
+    display: flex;
+    justify-content: end;
+    margin-bottom: 10px;
+    flex-direction: row-reverse;
+}
+.ArticleInfo span{
+    margin-left: 10px;
+    color: #777;
+}
